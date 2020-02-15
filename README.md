@@ -97,4 +97,7 @@ ademas de la sintaxis para listas se agrega [_],[x]o[X]
 >esta es una cita
 
 # imagenes
-![Sett] (imagen s/sett.jpg)
+~~~~
+![Sett] (imagens/sett.jpg)
+~~~~
+![Sett] (imagens/sett.jpg)
