@@ -98,6 +98,6 @@ ademas de la sintaxis para listas se agrega [_],[x]o[X]
 
 # imagenes
 ~~~~
-![Sett] (imagens/sett.jpg)
+![kill](imagens/sett.jpg)
 ~~~~
-![Sett] (imagens/sett.jpg)
+![kill](imagens/sett.jpg)
