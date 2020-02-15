@@ -29,6 +29,9 @@ simbolo|forma
 se pueden usar varios simbolos
 
 simbolo|forma
+--|--
+guion|---
+asteriscos|***
 
 ---
 
